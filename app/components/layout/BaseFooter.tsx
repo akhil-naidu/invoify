@@ -8,7 +8,6 @@ const BaseFooter = () => {
   return (
     <footer className='container py-10'>
       <p>
-        JavaScript
         {_t('footer.developedBy')}{' '}
         <a
           href='https://github.com/akhil-naidu'
