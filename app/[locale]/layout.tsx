@@ -40,7 +40,7 @@ export const metadata: Metadata = {
     'Create invoices effortlessly with Invoify, the free invoice generator. Try it now!',
   icons: [{ rel: 'icon', url: Favicon.src }],
   keywords: ROOTKEYWORDS,
-  viewport: 'width=device-width, initial-scale=1',
+  // viewport: 'width=device-width, initial-scale=1',
   robots: {
     index: true,
     follow: true,
